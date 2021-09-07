@@ -1,0 +1,8 @@
+# Exculded Dir
+
+.vs/
+bin/
+bin-int/
+
+#Files
+*.user
